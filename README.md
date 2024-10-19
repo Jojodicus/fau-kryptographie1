@@ -6,7 +6,9 @@ Support matrix:
 
 |  Cipher  |         Notes         |       Encryption      |       Decryption      |        Cracking       |
 | -------- | --------------------- | --------------------- | --------------------- | --------------------- |
-|   Caesar | :white_square_button: |    :white_check_mark: |    :white_check_mark: | :white_square_button: |
-|     MASC | :white_square_button: |    :white_check_mark: |    :white_check_mark: | :white_square_button: |
+|   Caesar |              :pencil: |    :white_check_mark: |    :white_check_mark: | :white_square_button: |
+|     MASC |              :pencil: |    :white_check_mark: |    :white_check_mark: | :white_square_button: |
 | TRANSMAT | :white_square_button: | :white_square_button: | :white_square_button: | :white_square_button: |
 | TRANSSPA | :white_square_button: | :white_square_button: | :white_square_button: | :white_square_button: |
+
+To build the notes pdf, run `typst compile main.typ` in the [notes folder](/notes/).
