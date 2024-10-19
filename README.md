@@ -6,8 +6,8 @@ Support matrix:
 
 |  Cipher  |         Notes         |       Encryption      |       Decryption      |        Cracking       |
 | -------- | --------------------- | --------------------- | --------------------- | --------------------- |
-|   Caesar |              :pencil: |    :white_check_mark: |    :white_check_mark: | :white_square_button: |
-|     MASC |              :pencil: |    :white_check_mark: |    :white_check_mark: | :white_square_button: |
+|   Caesar |    :white_check_mark: |    :white_check_mark: |    :white_check_mark: | :white_square_button: |
+|     MASC |    :white_check_mark: |    :white_check_mark: |    :white_check_mark: | :white_square_button: |
 | TRANSMAT | :white_square_button: | :white_square_button: | :white_square_button: | :white_square_button: |
 | TRANSSPA | :white_square_button: | :white_square_button: | :white_square_button: | :white_square_button: |
 
